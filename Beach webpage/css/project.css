@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+}
+#div1{
+    height: 470px;
+    text-align: center;
+    font-weight: 700;
+    background-image: url(https://cdn.pixabay.com/photo/2017/04/04/14/24/turtle-2201433_960_720.jpg);
+    background-size: cover;
+
+    background-repeat: no-repeat;
+  
+    padding-top: 300px;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+h1{
+    font-size: 55px;
+    color:#926239 ;
+}
+#para1{
+    font-size: 17px;
+    padding-top:  10px;
+    color: #AE6239;
+
+}
+button{
+    border: 1px solid;
+    width: 130px;
+    height: 50px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color:white;
+    color:#926239;
+    font-size: larger;
+    border-color: #AE6239;
+
+}
+button:hover{
+    background-color:#926239;
+    border-color: #AE6239;
+    color:white
+
+}
+#div2{
+    padding:20px 25px;
+    background-color:#926239;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 17px;
+   
+}
+#div3{
+    background-color: #F4F4F4;
+    text-align: center;
+    padding:20px 25px;
+    font-weight: 180;
+    font-style: normal;
+    color:#92644B
+    
+}
+#para3{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 27px;
+    font-size: 17px;
+}
+#para4,#para6{
+    font-size: 17px;
+    line-height: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#926239;
+    color:#FFFFEC ;
+    display: inline-block;
+    width: 443px;
+    padding: 30px;
+
+
+}
+#para5{
+    background-color: #FFFFFF;
+    color: #926239;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 27px;
+    width: 443px;
+    display: inline-block;
+    padding: 20px 30px;
+}
